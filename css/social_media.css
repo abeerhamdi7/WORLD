@@ -1,0 +1,57 @@
+.custom1-style
+{
+    
+    background-color:white;
+    height: 120px;
+    border-bottom:1px solid grey;
+    color: black;
+    font-size: 20px;
+    width: 100%;
+    
+    
+}
+.social
+{
+ 
+  height: 120px;
+  width: 99%;
+  
+  
+
+}
+.part-left,.part-right
+{
+    float: left;
+    
+    width: 30%;
+    color: rgb(156, 154, 154);
+    height: 130px;
+
+}
+.part-right
+{
+    float: right;
+    width: 65%;
+    position: relative;
+    bottom: 125px;
+  
+    
+}
+ h3
+{
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 0;
+
+}
+
+.part-right i{
+   
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 57px;
+    
+    
+}
+
+ 

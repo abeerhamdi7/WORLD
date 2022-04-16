@@ -1,0 +1,47 @@
+.custom8
+{
+    
+    width: 100%;
+    height: 300px;
+    clear: both;
+    
+    background-image: url(img4.jpg);
+    background-repeat: no-repeat;
+    width: 80%;
+
+    background-size: 100% 100%;
+    margin: 0 auto;
+    position: relative;
+    bottom: 150px;
+}
+.overlay
+{
+    height: 300px;
+    background-color: rgba(10, 8, 8, 0.589);
+   
+    
+}
+
+.custom8 hr,.custom8 h2,.custom9 hr,.custom9 h2{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: 500;
+    
+
+}
+.custom8 hr,.custom9 hr{
+    width: 120px;
+    margin: 30px 0;
+    margin-left: 45%;
+    border: 2px solid ;
+   
+    
+}
+.custom8 .heading{
+    position: relative;
+    top: 40%;
+    border-style: none;
+
+}

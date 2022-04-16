@@ -1,0 +1,84 @@
+
+.heading-card2
+{
+    width: 98%;
+    height: 60px;
+    padding: 20px;
+    position: relative;
+    top: 110px;
+    text-align: center;
+}
+.price
+{
+    width: 97%;
+    height: 500px;
+    padding: 20px;
+    background-color: rgb(221, 217, 217);
+    margin-top: 30px;
+    
+}
+
+.left-price,.middle-price,.right-price
+{
+    float: left;
+    width: 30%;
+    height: 400px;
+    position: relative;
+    top:100px;
+    
+}
+.middle-price
+{
+    margin: 0 5%;
+}
+.left-price
+{
+
+    width: 20%;
+    float: right;
+}
+.basic,.dolar,.ten,.one,.three,.customize,.wordpress,.support,.empty
+{
+  width: 90%;
+  margin: 0 auto;
+  background-color: black;
+  color: white;
+  padding: 2%;
+  border: rgb(228, 221, 221) 1px solid;
+  text-align: center;
+  text-transform: capitalize;
+}
+.dolar{
+    height: 100px;
+}
+.number
+{
+    font-weight:bold;
+    padding:5px;
+    font-size:30px;
+}
+.empty
+{
+    
+    height: 5px;
+    background-color: rgb(255, 115, 0);
+    height: 5px;
+    border-style: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.middle-price .empty{
+    height: 20px;
+    font-size: 20px;
+   
+
+}
+
+.ten,.one,.three,.customize,.wordpress,.support
+{
+   
+  
+  background-color: white;
+  color: black;
+  text-transform: uppercase;
+}

@@ -1,0 +1,57 @@
+.custom9
+{
+    width: 85%;
+    height: 500px;
+    position: relative;
+    
+    margin: 0 auto;
+
+}
+.custom9 h2
+{
+    color: black;
+}
+.custom9 hr{
+    color:orangered;
+}
+.custom9 p{
+    text-align: center;
+    color: gray;
+}
+.contact
+{
+ 
+    height: 400px;
+    margin-top: 80px;
+}
+.custom9 .part-left,.contact .part-right
+{
+ width: 45%;
+ 
+ margin-left: 3%;
+ float: left;
+ height: 300px;
+}
+.custom9 textarea
+{
+    width: 450px;
+    border-style: none;
+    border-bottom: 2px solid rgb(151, 150, 150);
+    text-transform: capitalize;
+    font-size: 18px;
+    position: relative;
+    top: 180px;
+}
+.part3 input
+{
+
+    padding: 10px;
+    background-color: orangered;
+    color: white;
+    width: 200px;
+    border-style: none;
+    border-radius: 10px;
+    position: relative;
+    left: 28%;;
+    text-align: center;
+}

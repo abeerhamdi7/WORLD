@@ -1,0 +1,73 @@
+
+.custom2-style
+{
+    background-color: rgb(219, 214, 214) ;
+    width: 100%;
+    
+    height: 600px;
+    clear: both;
+    position: relative;
+    bottom: 189px;
+  
+    
+
+}
+.left-part ,.middle-part,.right-part
+{
+    float:left;
+    width:30%;
+    height: 400px;
+    
+    margin-top: 95px;
+    
+}
+
+.left-part{
+    width: 20%;
+    margin-right: 5%;
+}
+.right-part
+{
+    float: right;
+    
+}
+.tab1,.tab2,.tab3{
+    padding:  40px 30px;
+    text-transform: uppercase;
+    background-color: black;
+    color: white;
+    width: 40px;
+    margin-bottom: 1px;
+
+}
+.tab1
+{
+    background-color: orangered;
+}
+.middle-part h3 
+{
+    margin-bottom: 40px;
+}
+.middle-part p,input{
+    line-height: 1.6;
+    font-size: 20px;
+    text-align: justify;
+    color: grey;
+    
+}
+.middle-part input
+{
+   padding: 10px 20px; 
+   margin-top: 30px;
+   background-color: orangered;
+   color: white;
+   border-style: none;
+   border-radius: 10px;
+}
+.right-part img{
+    width: 100%;
+    height: 100%;
+    
+   
+}
+

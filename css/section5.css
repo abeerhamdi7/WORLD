@@ -1,0 +1,63 @@
+.custom5
+{
+    
+    height: 500px;
+    width: 100%;
+ clear: both;
+ position: relative;
+ top:100px;
+ margin: 0 auto;
+ clear: both;
+}
+
+.heading,.card
+{
+  
+
+  height: 90px;
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 20px;
+  color: gray
+
+
+}
+.custom5 hr,.custom6 hr ,.custom7 hr{
+    
+    margin-left: 48%;
+}
+.custom5 h3{
+    margin-bottom: 25px;
+    color:black;
+}
+.card p{
+    text-align: justify;
+}
+.card
+{
+    height: 300px;
+    text-align: center;
+    
+    margin-top: 30px;
+
+
+}
+.left-card,.middle-card,.right-card{
+    float: left;
+    margin-left: 35px;
+    width: 30%;
+}
+.card i
+{
+    
+    font-size: 30px;
+    border: orangered 2px solid;
+    width: 50px;
+    height: 50px;
+ 
+    padding: 20px 7px 0 7px;
+    border-radius: 50%;
+    color: orangered;
+
+  
+}
